@@ -1,0 +1,11 @@
+--------------------------------------------------
+Descriptive analysis:
+
+Variable: EXPORTS (US$ MILLIONS) (level)
+Mean: 14438.89
+Median: 15517.41
+Sample std: 6010.59
+Variance: 36127159.23
+Lowest: 3453.88
+Highest: 28135.01
+--------------------------------------------------
